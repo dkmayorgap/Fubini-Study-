@@ -1,0 +1,6 @@
+.vscode
+*.pyc
+*.npy
+*.npz
+*.pickle
+.DS_Store
